@@ -12,18 +12,18 @@
 ---
 
 
-### Data last generated on: 2024-08-15 via [GitHub Action 10398819242](https://github.com/sockheadrps/sockheadrps/actions/runs/10398819242)
+### Data last generated on: 2024-08-16 via [GitHub Action 10414887666](https://github.com/sockheadrps/sockheadrps/actions/runs/10414887666)
 
 ## 🚀 Recent Commits
 
+- **strangest_linked_list - [set up details for new linkedlist](https://github.com/codingwithstrangers/strangest_linked_list/commit/a0dd76cc07b80b44430b7e8bc83acc62b706fade)**
+  - Additions: 10 - Deletions: 0 - Total Changes: 10
+
+- **strangest_linked_list - [first commit](https://github.com/codingwithstrangers/strangest_linked_list/commit/e6b9996c8a081473eefbc97eb08a64c21a35c1e2)**
+  - Additions: 1 - Deletions: 0 - Total Changes: 1
+
 - **stranges_menu - [Update README.md  updating in progress](https://github.com/codingwithstrangers/stranges_menu/commit/e8f99be01c48aab80505717be2d196d9b17cf2cb)**
   - Additions: 3 - Deletions: 9 - Total Changes: 12
-
-- **stranges_menu - [pushing code for menu](https://github.com/codingwithstrangers/stranges_menu/commit/94646d5f2fe27835de9feeb8d4249d4c56238c80)**
-  - Additions: 760 - Deletions: 0 - Total Changes: 760
-
-- **stranges_menu - [first commit](https://github.com/codingwithstrangers/stranges_menu/commit/a88bd4070f691436620b42383579ed45e29c17cf)**
-  - Additions: 1 - Deletions: 0 - Total Changes: 1
 
 
 # 📊 Python Stats:

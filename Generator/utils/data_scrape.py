@@ -9,7 +9,6 @@ import configparser
 from datetime import datetime, timedelta, timezone
 from pytz import timezone as tz
 
-
 # Load environment variables
 load_dotenv()
 

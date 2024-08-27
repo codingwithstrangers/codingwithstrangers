@@ -12,24 +12,24 @@
 ---
 
 
-### Data last generated on: 2024-08-16 via [GitHub Action 10414887666](https://github.com/sockheadrps/sockheadrps/actions/runs/10414887666)
+### Data last generated on: 2024-08-27 via [GitHub Action 10572134465](https://github.com/sockheadrps/sockheadrps/actions/runs/10572134465)
 
 ## 🚀 Recent Commits
 
-- **strangest_linked_list - [set up details for new linkedlist](https://github.com/codingwithstrangers/strangest_linked_list/commit/a0dd76cc07b80b44430b7e8bc83acc62b706fade)**
-  - Additions: 10 - Deletions: 0 - Total Changes: 10
+- **strangest_linked_list - [adding the rever linked list, need to make sure I call said node first](https://github.com/codingwithstrangers/strangest_linked_list/commit/f4f60d487a3c8a11863c80b5a5e1668c3bd531b1)**
+  - Additions: 34 - Deletions: 12 - Total Changes: 46
 
-- **strangest_linked_list - [first commit](https://github.com/codingwithstrangers/strangest_linked_list/commit/e6b9996c8a081473eefbc97eb08a64c21a35c1e2)**
-  - Additions: 1 - Deletions: 0 - Total Changes: 1
+- **Find_the_Strangest_song - [Update README.md  fix read me add new details for emotional option](https://github.com/codingwithstrangers/Find_the_Strangest_song/commit/40a34cf2874288f1995c11fee49645fd1c99e0aa)**
+  - Additions: 123 - Deletions: 68 - Total Changes: 191
 
-- **stranges_menu - [Update README.md  updating in progress](https://github.com/codingwithstrangers/stranges_menu/commit/e8f99be01c48aab80505717be2d196d9b17cf2cb)**
-  - Additions: 3 - Deletions: 9 - Total Changes: 12
+- **strangest_linked_list - [test two works need to study more](https://github.com/codingwithstrangers/strangest_linked_list/commit/3677f4e176554fcc3f5c2f4b2d641f6195d9f507)**
+  - Additions: 84 - Deletions: 30 - Total Changes: 114
 
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 7609
+### Total Lines of Python Code: 6088
 ### Total Libraries/Modules Imported: 51
-### Total Python Files: 52
+### Total Python Files: 41
 ![](DataVisuals/data.gif)
 

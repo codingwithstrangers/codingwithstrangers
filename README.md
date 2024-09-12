@@ -12,24 +12,24 @@
 ---
 
 
-### Data last generated on: 2024-08-27 via [GitHub Action 10572134465](https://github.com/sockheadrps/sockheadrps/actions/runs/10572134465)
+### Data last generated on: 2024-09-12 via [GitHub Action 10824833371](https://github.com/sockheadrps/sockheadrps/actions/runs/10824833371)
 
 ## 🚀 Recent Commits
 
-- **strangest_linked_list - [adding the rever linked list, need to make sure I call said node first](https://github.com/codingwithstrangers/strangest_linked_list/commit/f4f60d487a3c8a11863c80b5a5e1668c3bd531b1)**
-  - Additions: 34 - Deletions: 12 - Total Changes: 46
+- **PyProfileDataGen - [Merge pull request #10 from codingwithstrangers/main  Making this for a PR - codingwithstrangers Workflow updates](https://github.com/sockheadrps/PyProfileDataGen/commit/f97c780a478a95e7f9e8ad2d8be74b7716cec1d7)**
+  - Additions: 28 - Deletions: 3 - Total Changes: 31
 
-- **Find_the_Strangest_song - [Update README.md  fix read me add new details for emotional option](https://github.com/codingwithstrangers/Find_the_Strangest_song/commit/40a34cf2874288f1995c11fee49645fd1c99e0aa)**
-  - Additions: 123 - Deletions: 68 - Total Changes: 191
+- **PyProfileDataGen - [Making this for a PR](https://github.com/sockheadrps/PyProfileDataGen/commit/1d9f3db7552a8237c1ce9342cb6891bb2920609c)**
+  - Additions: 28 - Deletions: 3 - Total Changes: 31
 
-- **strangest_linked_list - [test two works need to study more](https://github.com/codingwithstrangers/strangest_linked_list/commit/3677f4e176554fcc3f5c2f4b2d641f6195d9f507)**
-  - Additions: 84 - Deletions: 30 - Total Changes: 114
+- **rpaudio - [0.0.5](https://github.com/sockheadrps/rpaudio/commit/1ddc3dd4d6bac5bc8039661cbc2d76f76f4f221f)**
+  - Additions: 1 - Deletions: 1 - Total Changes: 2
 
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 6088
-### Total Libraries/Modules Imported: 51
-### Total Python Files: 41
+### Total Lines of Python Code: 10961
+### Total Libraries/Modules Imported: 103
+### Total Python Files: 128
 ![](DataVisuals/data.gif)
 

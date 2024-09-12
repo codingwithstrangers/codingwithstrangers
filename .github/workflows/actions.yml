@@ -40,7 +40,8 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: |
+        run: 
+          git pull
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
@@ -86,6 +87,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Updated Python data" --allow-empty
 
       - name: Push changes
+        
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.TOKEN }}

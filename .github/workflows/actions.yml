@@ -41,7 +41,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          git pull
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
@@ -91,4 +90,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.TOKEN }}
-          branch: test
+          branch: main

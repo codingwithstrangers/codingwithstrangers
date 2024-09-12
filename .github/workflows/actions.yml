@@ -3,7 +3,7 @@ name: Run Python Scripts For Data Gathering and Generation
 on:
   push:
     branches:
-      - test
+      - main
   workflow_dispatch:
 
 

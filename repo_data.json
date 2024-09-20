@@ -8,15 +8,15 @@
                 "youtube.py"
             ],
             "libraries": [
-                "chromedriver_autoinstaller",
                 "json",
-                "selenium",
                 "select",
                 "pafy",
-                "glob",
+                "selenium",
                 "get_yt_url",
+                "chromedriver_autoinstaller",
                 "os",
-                "time"
+                "time",
+                "glob"
             ],
             "total_python_files": 3,
             "total_python_lines": 163,
@@ -484,19 +484,19 @@
                 "tracks_rec.py"
             ],
             "libraries": [
-                "main",
-                "csv",
-                "unicodedata",
+                "pprint",
+                "xlsxwriter",
                 "export",
-                "rec",
+                "os",
+                "operator",
                 "json",
+                "csv",
                 "test_rec",
                 "requests",
-                "xlsxwriter",
                 "dotenv",
-                "pprint",
-                "os",
-                "operator"
+                "rec",
+                "unicodedata",
+                "main"
             ],
             "total_python_files": 9,
             "total_python_lines": 973,
@@ -604,11 +604,11 @@
                 "main.py"
             ],
             "libraries": [
-                "streamlit",
+                "plotly_express",
                 "sys",
-                "pathlib",
                 "pandas",
-                "plotly_express"
+                "pathlib",
+                "streamlit"
             ],
             "total_python_files": 1,
             "total_python_lines": 110,
@@ -643,12 +643,12 @@
             ],
             "libraries": [
                 "atexit",
-                "cv2",
-                "base64",
-                "numpy",
+                "flask",
                 "os",
                 "time",
-                "flask"
+                "base64",
+                "cv2",
+                "numpy"
             ],
             "total_python_files": 6,
             "total_python_lines": 310,
@@ -719,6 +719,37 @@
             }
         },
         {
+            "repo_name": "strangest_BST",
+            "python_files": [],
+            "libraries": [],
+            "total_python_files": 0,
+            "total_python_lines": 0,
+            "file_extensions": {
+                ".md": 1,
+                ".jpg": 1,
+                ".js": 2,
+                ".json": 2
+            },
+            "total_commits": 7,
+            "commit_messages": [
+                "Thanks Tani",
+                "Merge pull request #1 from taniwha3/main\n\nadding tests",
+                "adding tests\n\nSigned-off-by: Tani Aura <111664369+taniwha3@users.noreply.github.com>",
+                "adding leaves to the tree",
+                "This was not balanced now trying to balance may use AVL",
+                "image commit",
+                "first commit"
+            ],
+            "construct_counts": {
+                "if statements": 0,
+                "while loops": 0,
+                "for loops": 0,
+                "regular functions created": 0,
+                "async functions created": 0,
+                "classes created": 0
+            }
+        },
+        {
             "repo_name": "Strangest_Etch-Sketch",
             "python_files": [],
             "libraries": [],
@@ -758,8 +789,9 @@
                 ".mjs": 2,
                 ".js": 1
             },
-            "total_commits": 4,
+            "total_commits": 5,
             "commit_messages": [
+                "hashmap completed",
                 "looking in node for key and values",
                 "Making linked list to finish hashmap",
                 "start building hashmap",
@@ -986,38 +1018,38 @@
                 "chromedriver_autoinstaller/utils.py"
             ],
             "libraries": [
-                "inspect",
-                "chromedriver_autoinstaller",
-                "xml",
-                "main",
-                "datetime",
                 "typing",
-                "csv",
-                "websockets",
+                "logging",
                 "zipfile",
-                "shutil",
-                "asyncio",
-                "psutil",
-                "time",
-                "sys",
-                "subprocess",
+                "pprint",
                 "pandas",
                 "re",
                 "functools",
-                "json",
-                "selenium",
-                "twitchio",
-                "configuration",
-                "refresh",
-                "urllib",
-                "requests",
-                "random",
                 "schedule",
-                "dotenv",
-                "pprint",
-                "io",
+                "random",
                 "os",
-                "logging"
+                "subprocess",
+                "shutil",
+                "urllib",
+                "twitchio",
+                "json",
+                "sys",
+                "csv",
+                "inspect",
+                "asyncio",
+                "selenium",
+                "refresh",
+                "requests",
+                "chromedriver_autoinstaller",
+                "time",
+                "datetime",
+                "io",
+                "xml",
+                "dotenv",
+                "psutil",
+                "websockets",
+                "configuration",
+                "main"
             ],
             "total_python_files": 18,
             "total_python_lines": 4090,
@@ -1092,14 +1124,14 @@
                 "main.py"
             ],
             "libraries": [
+                "logging",
                 "json",
-                "datetime",
-                "twitchio",
-                "configuration",
-                "dotenv",
                 "asyncio",
                 "os",
-                "logging"
+                "datetime",
+                "dotenv",
+                "configuration",
+                "twitchio"
             ],
             "total_python_files": 2,
             "total_python_lines": 68,
@@ -1130,15 +1162,15 @@
                 "twitchauth.py"
             ],
             "libraries": [
-                "datetime",
-                "csv",
-                "random",
-                "requests",
-                "time",
-                "client",
                 "pandas",
+                "csv",
+                "client",
+                "requests",
+                "random",
+                "operator",
                 "os",
-                "operator"
+                "time",
+                "datetime"
             ],
             "total_python_files": 2,
             "total_python_lines": 374,
@@ -1168,8 +1200,8 @@
         "Friday": {
             "0": 3,
             "1": 3,
-            "2": 7,
-            "3": 6,
+            "2": 8,
+            "3": 7,
             "4": 6,
             "5": 1,
             "6": 2,
@@ -1260,8 +1292,8 @@
             "2": 2,
             "3": 4,
             "4": 8,
-            "5": 3,
-            "6": 5,
+            "5": 4,
+            "6": 6,
             "7": 4,
             "9": 1,
             "11": 1,
@@ -1282,7 +1314,7 @@
             "2": 4,
             "3": 2,
             "4": 8,
-            "5": 2,
+            "5": 5,
             "6": 3,
             "7": 3,
             "8": 1,
@@ -1304,7 +1336,7 @@
             "2": 2,
             "3": 8,
             "4": 5,
-            "5": 7,
+            "5": 8,
             "7": 2,
             "8": 1,
             "9": 2,
@@ -1436,17 +1468,6 @@
             "total_changes": 5114
         },
         {
-            "repo_name": "intro_to_js",
-            "repo_url": "https://github.com/codingwithstrangers/intro_to_js",
-            "sha": "f07783d5dfa675fd90f6418e4c509511f051b27a",
-            "message": "last working version of triple T",
-            "author": "Heero",
-            "date": "2024-06-22T03:28:08+00:00",
-            "additions": 478,
-            "deletions": 109,
-            "total_changes": 587
-        },
-        {
             "repo_name": "Strangest_bit_goals",
             "repo_url": "https://github.com/codingwithstrangers/Strangest_bit_goals",
             "sha": "241b2198866fcde36004ae0f6ee8494e7888de21",
@@ -1486,6 +1507,83 @@
             "message": "first commit",
             "author": "Heero",
             "date": "2024-08-10T20:38:39+00:00",
+            "additions": 1,
+            "deletions": 0,
+            "total_changes": 1
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "68cc465ca83723c263d6009772cbd7c2619ab437",
+            "message": "Thanks Tani",
+            "author": "Heero",
+            "date": "2024-09-20T03:21:58+00:00",
+            "additions": 3,
+            "deletions": 0,
+            "total_changes": 3
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "bd79f5b842a8a12bbf571b5f23579d26647d6810",
+            "message": "Merge pull request #1 from taniwha3/main\n\nadding tests",
+            "author": "Heero",
+            "date": "2024-09-20T02:46:44+00:00",
+            "additions": 3701,
+            "deletions": 47,
+            "total_changes": 3748
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "eed0339895646299a1a489a7105ed99814c8606a",
+            "message": "adding tests\n\nSigned-off-by: Tani Aura <111664369+taniwha3@users.noreply.github.com>",
+            "author": "Tani Aura",
+            "date": "2024-09-19T06:13:30+00:00",
+            "additions": 3701,
+            "deletions": 47,
+            "total_changes": 3748
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "13463f5e12a17335760b0acc39bd0d7519516f27",
+            "message": "adding leaves to the tree",
+            "author": "Heero",
+            "date": "2024-09-19T05:09:00+00:00",
+            "additions": 87,
+            "deletions": 48,
+            "total_changes": 135
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "8523ef17a2e2a8d28bb10e66f613e687568276dc",
+            "message": "This was not balanced now trying to balance may use AVL",
+            "author": "Heero",
+            "date": "2024-09-18T05:21:42+00:00",
+            "additions": 76,
+            "deletions": 0,
+            "total_changes": 76
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "4e5f92cad8693b35d848fc872ca0c75b668eec0e",
+            "message": "image commit",
+            "author": "Heero",
+            "date": "2024-09-17T05:26:32+00:00",
+            "additions": 0,
+            "deletions": 0,
+            "total_changes": 0
+        },
+        {
+            "repo_name": "strangest_BST",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_BST",
+            "sha": "f738ae8da65a6c312b15a4bdddca31b15e79c0da",
+            "message": "first commit",
+            "author": "Heero",
+            "date": "2024-09-17T05:23:12+00:00",
             "additions": 1,
             "deletions": 0,
             "total_changes": 1
@@ -1533,6 +1631,17 @@
             "additions": 0,
             "deletions": 0,
             "total_changes": 0
+        },
+        {
+            "repo_name": "strangest_hashmap",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_hashmap",
+            "sha": "1563414e862a37df367067226c25a0088ef9048b",
+            "message": "hashmap completed",
+            "author": "Heero",
+            "date": "2024-09-17T05:19:44+00:00",
+            "additions": 150,
+            "deletions": 48,
+            "total_changes": 198
         },
         {
             "repo_name": "strangest_hashmap",

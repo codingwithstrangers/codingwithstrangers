@@ -13,19 +13,29 @@
 ---
 
 
-### Data last generated on: 2024-09-20 via [GitHub Action 10952700891](https://github.com/sockheadrps/sockheadrps/actions/runs/10952700891)
+### Data last generated on: 2024-09-24 via [GitHub Action 11007550229](https://github.com/sockheadrps/sockheadrps/actions/runs/11007550229)
 
 ## 🚀 Recent Commits
+
+- **strangest_chess - [This is for the chess](https://github.com/codingwithstrangers/strangest_chess/commit/e50a3000a9a2b8d926f55abcea7773b0544bbc02)**
+  - Additions: 131 - Deletions: 0 - Total Changes: 131
+
+- **strangest_chess - [first commit](https://github.com/codingwithstrangers/strangest_chess/commit/8c4252d54b0d7c51f741633c2c334fe254af871f)**
+  - Additions: 0 - Deletions: 0 - Total Changes: 0
 
 - **strangest_BST - [Thanks Tani](https://github.com/codingwithstrangers/strangest_BST/commit/68cc465ca83723c263d6009772cbd7c2619ab437)**
   - Additions: 3 - Deletions: 0 - Total Changes: 3
 
-- **strangest_BST - [Merge pull request #1 from taniwha3/main  adding tests](https://github.com/codingwithstrangers/strangest_BST/commit/bd79f5b842a8a12bbf571b5f23579d26647d6810)**
-  - Additions: 3701 - Deletions: 47 - Total Changes: 3748
 
-- **strangest_BST - [adding tests  Signed-off-by: Tani Aura <111664369+taniwha3@users.noreply.github.com>](https://github.com/codingwithstrangers/strangest_BST/commit/eed0339895646299a1a489a7105ed99814c8606a)**
-  - Additions: 3701 - Deletions: 47 - Total Changes: 3748
+## 🔀 Recently Merged Pull Requests
 
+- **[This is the version we made that works](https://github.com/sockheadrps/PyProfileDataGen/pull/12)**
+  - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: 3
+
+- **[Making this for a PR](https://github.com/sockheadrps/PyProfileDataGen/pull/10)**
+  - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: 3
 
 # 📊 Python Stats:
 

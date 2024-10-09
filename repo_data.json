@@ -8,14 +8,14 @@
                 "youtube.py"
             ],
             "libraries": [
-                "pafy",
-                "get_yt_url",
-                "selenium",
-                "json",
                 "time",
-                "os",
-                "chromedriver_autoinstaller",
+                "selenium",
                 "select",
+                "get_yt_url",
+                "json",
+                "pafy",
+                "chromedriver_autoinstaller",
+                "os",
                 "glob"
             ],
             "total_python_files": 3,
@@ -484,19 +484,19 @@
                 "tracks_rec.py"
             ],
             "libraries": [
-                "pprint",
-                "json",
-                "unicodedata",
-                "test_rec",
-                "xlsxwriter",
-                "export",
                 "csv",
-                "main",
-                "operator",
-                "rec",
+                "test_rec",
                 "os",
                 "requests",
-                "dotenv"
+                "xlsxwriter",
+                "dotenv",
+                "json",
+                "unicodedata",
+                "pprint",
+                "main",
+                "export",
+                "operator",
+                "rec"
             ],
             "total_python_files": 9,
             "total_python_lines": 973,
@@ -605,10 +605,10 @@
             ],
             "libraries": [
                 "pathlib",
-                "sys",
-                "plotly_express",
                 "pandas",
-                "streamlit"
+                "plotly_express",
+                "streamlit",
+                "sys"
             ],
             "total_python_files": 1,
             "total_python_lines": 110,
@@ -642,13 +642,13 @@
                 "myapp/app.py"
             ],
             "libraries": [
-                "numpy",
-                "atexit",
                 "time",
-                "os",
-                "base64",
+                "numpy",
                 "flask",
-                "cv2"
+                "cv2",
+                "base64",
+                "os",
+                "atexit"
             ],
             "total_python_files": 6,
             "total_python_lines": 310,
@@ -686,6 +686,33 @@
                 "while loops": 0,
                 "for loops": 14,
                 "regular functions created": 15,
+                "async functions created": 0,
+                "classes created": 0
+            }
+        },
+        {
+            "repo_name": "strangest_battleship",
+            "python_files": [],
+            "libraries": [],
+            "total_python_files": 0,
+            "total_python_lines": 0,
+            "file_extensions": {
+                ".md": 1,
+                ".png": 1
+            },
+            "total_commits": 5,
+            "commit_messages": [
+                "Updating project this will be our new battle ship Project",
+                "testing",
+                "Create send file",
+                "Create first file",
+                "first commit"
+            ],
+            "construct_counts": {
+                "if statements": 0,
+                "while loops": 0,
+                "for loops": 0,
+                "regular functions created": 0,
                 "async functions created": 0,
                 "classes created": 0
             }
@@ -759,10 +786,12 @@
                 ".png": 1,
                 ".md": 1,
                 ".html": 1,
+                ".js": 1,
                 ".css": 1
             },
-            "total_commits": 2,
+            "total_commits": 3,
             "commit_messages": [
+                "closing this as we got the jest of the lesson",
                 "This is for the chess",
                 "first commit"
             ],
@@ -894,6 +923,59 @@
                 "for loops": 0,
                 "regular functions created": 0,
                 "async functions created": 0,
+                "classes created": 0
+            }
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "python_files": [
+                "configuration.py",
+                "cws_songs.py",
+                "main.py",
+                "refresh_token.py",
+                "test.py"
+            ],
+            "libraries": [
+                "ytscm",
+                "json",
+                "os",
+                "requests",
+                "asyncio",
+                "dotenv"
+            ],
+            "total_python_files": 5,
+            "total_python_lines": 583,
+            "file_extensions": {
+                ".gitignore": 1,
+                ".md": 1,
+                ".py": 5,
+                ".html": 1,
+                ".jpg": 1,
+                ".js": 1,
+                ".txt": 1,
+                ".css": 1,
+                ".pyc": 1
+            },
+            "total_commits": 11,
+            "commit_messages": [
+                "adding CSS and HTML",
+                "lets start building the frontend",
+                "updated the song tie feature",
+                "Need to finish if statements or builing dict",
+                "fixing bits",
+                "The bit works",
+                "Update configuration.py\n\nreview",
+                "updated loop",
+                "Need to make the bot run with a loop",
+                "added token for the twitch bits",
+                "first commit"
+            ],
+            "construct_counts": {
+                "if statements": 19,
+                "while loops": 2,
+                "for loops": 11,
+                "regular functions created": 11,
+                "async functions created": 5,
                 "classes created": 0
             }
         },
@@ -1044,38 +1126,38 @@
                 "chromedriver_autoinstaller/utils.py"
             ],
             "libraries": [
-                "twitchio",
-                "pprint",
-                "xml",
-                "selenium",
-                "functools",
-                "asyncio",
-                "json",
-                "random",
-                "datetime",
-                "inspect",
-                "chromedriver_autoinstaller",
-                "configuration",
-                "io",
-                "schedule",
-                "pandas",
-                "typing",
-                "csv",
-                "zipfile",
-                "logging",
-                "main",
-                "re",
-                "sys",
-                "shutil",
-                "refresh",
                 "time",
+                "twitchio",
+                "csv",
+                "sys",
                 "os",
                 "requests",
-                "psutil",
+                "asyncio",
+                "logging",
+                "datetime",
+                "io",
                 "dotenv",
+                "functools",
+                "zipfile",
+                "configuration",
+                "subprocess",
+                "selenium",
+                "xml",
                 "urllib",
-                "websockets",
-                "subprocess"
+                "pandas",
+                "json",
+                "inspect",
+                "psutil",
+                "chromedriver_autoinstaller",
+                "shutil",
+                "pprint",
+                "main",
+                "schedule",
+                "typing",
+                "random",
+                "re",
+                "refresh",
+                "websockets"
             ],
             "total_python_files": 18,
             "total_python_lines": 4090,
@@ -1150,11 +1232,11 @@
                 "main.py"
             ],
             "libraries": [
+                "json",
                 "twitchio",
+                "os",
                 "logging",
                 "asyncio",
-                "json",
-                "os",
                 "datetime",
                 "dotenv",
                 "configuration"
@@ -1188,15 +1270,15 @@
                 "twitchauth.py"
             ],
             "libraries": [
-                "operator",
-                "client",
                 "time",
+                "pandas",
+                "csv",
                 "os",
-                "random",
+                "client",
                 "requests",
                 "datetime",
-                "pandas",
-                "csv"
+                "operator",
+                "random"
             ],
             "total_python_files": 2,
             "total_python_lines": 374,
@@ -1229,9 +1311,9 @@
             "2": 8,
             "3": 7,
             "4": 6,
-            "5": 1,
-            "6": 2,
-            "7": 2,
+            "5": 2,
+            "6": 4,
+            "7": 3,
             "8": 2,
             "11": 2,
             "12": 6,
@@ -1275,7 +1357,7 @@
             "6": 2,
             "7": 2,
             "8": 3,
-            "9": 2,
+            "9": 5,
             "11": 2,
             "12": 4,
             "13": 2,
@@ -1295,8 +1377,8 @@
             "2": 2,
             "5": 3,
             "6": 3,
-            "7": 2,
-            "8": 1,
+            "7": 3,
+            "8": 2,
             "9": 2,
             "10": 3,
             "12": 1,
@@ -1316,8 +1398,8 @@
             "0": 3,
             "1": 1,
             "2": 2,
-            "3": 4,
-            "4": 8,
+            "3": 5,
+            "4": 11,
             "5": 4,
             "6": 6,
             "7": 4,
@@ -1332,14 +1414,14 @@
             "18": 7,
             "19": 4,
             "20": 1,
-            "23": 2
+            "23": 3
         },
         "Tuesday": {
             "0": 3,
             "1": 8,
             "2": 4,
-            "3": 3,
-            "4": 8,
+            "3": 4,
+            "4": 9,
             "5": 6,
             "6": 3,
             "7": 3,
@@ -1361,7 +1443,7 @@
             "0": 3,
             "2": 2,
             "3": 8,
-            "4": 5,
+            "4": 6,
             "5": 8,
             "7": 2,
             "8": 1,
@@ -1483,15 +1565,59 @@
             "total_changes": 1070
         },
         {
-            "repo_name": "intro_to_js",
-            "repo_url": "https://github.com/codingwithstrangers/intro_to_js",
-            "sha": "2a84d72944a3b58c508878fe52f85346cce1b3ca",
-            "message": "Doing Dynamic Dom in JS using webpacket",
+            "repo_name": "strangest_battleship",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_battleship",
+            "sha": "ca8b0cf829786dad9264bd066004299b5e5acb20",
+            "message": "Updating project this will be our new battle ship Project",
             "author": "Heero",
-            "date": "2024-07-09T02:59:57+00:00",
-            "additions": 5029,
-            "deletions": 85,
-            "total_changes": 5114
+            "date": "2024-09-27T05:20:45+00:00",
+            "additions": 0,
+            "deletions": 0,
+            "total_changes": 0
+        },
+        {
+            "repo_name": "strangest_battleship",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_battleship",
+            "sha": "71ec4527d991100793e98a657a2813c0f78d28cf",
+            "message": "testing",
+            "author": "Heero",
+            "date": "2024-09-26T04:34:09+00:00",
+            "additions": 0,
+            "deletions": 0,
+            "total_changes": 0
+        },
+        {
+            "repo_name": "strangest_battleship",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_battleship",
+            "sha": "d7e0f629a28d114cbff94349d54765edbc853289",
+            "message": "Create send file",
+            "author": "Heero",
+            "date": "2024-09-26T04:34:08+00:00",
+            "additions": 0,
+            "deletions": 0,
+            "total_changes": 0
+        },
+        {
+            "repo_name": "strangest_battleship",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_battleship",
+            "sha": "b7a96e92b4935844dba07c572c33bfbc021647a9",
+            "message": "Create first file",
+            "author": "Heero",
+            "date": "2024-09-26T04:34:08+00:00",
+            "additions": 0,
+            "deletions": 0,
+            "total_changes": 0
+        },
+        {
+            "repo_name": "strangest_battleship",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_battleship",
+            "sha": "86d74aa6ee8661f46e4fe5cd0658a0be2463a2cf",
+            "message": "first commit",
+            "author": "Heero",
+            "date": "2024-09-26T03:15:24+00:00",
+            "additions": 0,
+            "deletions": 0,
+            "total_changes": 0
         },
         {
             "repo_name": "Strangest_bit_goals",
@@ -1613,6 +1739,17 @@
             "additions": 1,
             "deletions": 0,
             "total_changes": 1
+        },
+        {
+            "repo_name": "strangest_chess",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_chess",
+            "sha": "5e26b80a9ec3cd9ed46eaace7ef83ea7a67945ab",
+            "message": "closing this as we got the jest of the lesson",
+            "author": "Heero",
+            "date": "2024-09-25T04:26:14+00:00",
+            "additions": 219,
+            "deletions": 114,
+            "total_changes": 333
         },
         {
             "repo_name": "strangest_chess",
@@ -1866,6 +2003,127 @@
             "additions": 2,
             "deletions": 0,
             "total_changes": 2
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "b32b1570f52b3e159f0ed39e793945702617d0da",
+            "message": "adding CSS and HTML",
+            "author": "Heero",
+            "date": "2024-10-08T04:33:09+00:00",
+            "additions": 127,
+            "deletions": 1,
+            "total_changes": 128
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "953d769f74ede079c7b69c7ba3fa74d5fee738e9",
+            "message": "lets start building the frontend",
+            "author": "Heero",
+            "date": "2024-10-06T08:55:59+00:00",
+            "additions": 50,
+            "deletions": 1,
+            "total_changes": 51
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "6c503e0f27a3874aa3f1e239d375214bf8e7057f",
+            "message": "updated the song tie feature",
+            "author": "Heero",
+            "date": "2024-10-06T07:40:11+00:00",
+            "additions": 141,
+            "deletions": 49,
+            "total_changes": 190
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "6e34ef8e5b62670728597403ec19cf43ff46b95f",
+            "message": "Need to finish if statements or builing dict",
+            "author": "Heero",
+            "date": "2024-10-05T09:42:51+00:00",
+            "additions": 14,
+            "deletions": 13,
+            "total_changes": 27
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "21517dd1710d04496d2ff02ddaada684ab687e67",
+            "message": "fixing bits",
+            "author": "Heero",
+            "date": "2024-10-05T09:05:09+00:00",
+            "additions": 8,
+            "deletions": 0,
+            "total_changes": 8
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "77a50559ed15a8f9891527ba930fd2c694a43348",
+            "message": "The bit works",
+            "author": "Heero",
+            "date": "2024-10-05T09:01:53+00:00",
+            "additions": 296,
+            "deletions": 97,
+            "total_changes": 393
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "897c6f73f567e1ee8e1f54f787f4905055b2c4d8",
+            "message": "Update configuration.py\n\nreview",
+            "author": "Heero",
+            "date": "2024-10-04T07:25:43+00:00",
+            "additions": 2,
+            "deletions": 2,
+            "total_changes": 4
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "9756628a88365b8657065261ec79367f4e9a2184",
+            "message": "updated loop",
+            "author": "Heero",
+            "date": "2024-10-04T06:28:05+00:00",
+            "additions": 16,
+            "deletions": 16,
+            "total_changes": 32
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "ca08c6180e3aac054ee1db8952ef9fa4442e4691",
+            "message": "Need to make the bot run with a loop",
+            "author": "Heero",
+            "date": "2024-10-04T06:20:40+00:00",
+            "additions": 181,
+            "deletions": 25,
+            "total_changes": 206
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "5c2191173a52030865e847a6d9c71cc47c3a4c1a",
+            "message": "added token for the twitch bits",
+            "author": "Heero",
+            "date": "2024-10-03T23:35:57+00:00",
+            "additions": 40,
+            "deletions": 0,
+            "total_changes": 40
+        },
+        {
+            "repo_name": "strangest_queuemaker",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_queuemaker",
+            "sha": "b920c9ad397d3efbe7b432baa3ac59a41af0cf3f",
+            "message": "first commit",
+            "author": "Heero",
+            "date": "2024-10-01T03:43:27+00:00",
+            "additions": 1,
+            "deletions": 0,
+            "total_changes": 1
         },
         {
             "repo_name": "Strangest_tictactoe",

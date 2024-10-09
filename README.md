@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2024-09-24 via [GitHub Action 11007550229](https://github.com/sockheadrps/sockheadrps/actions/runs/11007550229)
+### Data last generated on: 2024-10-09 via [GitHub Action 11249095220](https://github.com/sockheadrps/sockheadrps/actions/runs/11249095220)
 
 ## 🚀 Recent Commits
 
-- **strangest_chess - [This is for the chess](https://github.com/codingwithstrangers/strangest_chess/commit/e50a3000a9a2b8d926f55abcea7773b0544bbc02)**
-  - Additions: 131 - Deletions: 0 - Total Changes: 131
+- **strangest_queuemaker - [adding CSS and HTML](https://github.com/codingwithstrangers/strangest_queuemaker/commit/b32b1570f52b3e159f0ed39e793945702617d0da)**
+  - Additions: 127 - Deletions: 1 - Total Changes: 128
 
-- **strangest_chess - [first commit](https://github.com/codingwithstrangers/strangest_chess/commit/8c4252d54b0d7c51f741633c2c334fe254af871f)**
-  - Additions: 0 - Deletions: 0 - Total Changes: 0
+- **strangest_queuemaker - [lets start building the frontend](https://github.com/codingwithstrangers/strangest_queuemaker/commit/953d769f74ede079c7b69c7ba3fa74d5fee738e9)**
+  - Additions: 50 - Deletions: 1 - Total Changes: 51
 
-- **strangest_BST - [Thanks Tani](https://github.com/codingwithstrangers/strangest_BST/commit/68cc465ca83723c263d6009772cbd7c2619ab437)**
-  - Additions: 3 - Deletions: 0 - Total Changes: 3
+- **strangest_queuemaker - [updated the song tie feature](https://github.com/codingwithstrangers/strangest_queuemaker/commit/6c503e0f27a3874aa3f1e239d375214bf8e7057f)**
+  - Additions: 141 - Deletions: 49 - Total Changes: 190
 
 
 ## 🔀 Recently Merged Pull Requests
@@ -39,8 +39,8 @@
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 6088
-### Total Libraries/Modules Imported: 51
-### Total Python Files: 41
+### Total Lines of Python Code: 6671
+### Total Libraries/Modules Imported: 52
+### Total Python Files: 46
 ![](DataVisuals/data.gif)
 

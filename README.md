@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2024-10-09 via [GitHub Action 11249095220](https://github.com/sockheadrps/sockheadrps/actions/runs/11249095220)
+### Data last generated on: 2024-10-11 via [GitHub Action 11287974191](https://github.com/sockheadrps/sockheadrps/actions/runs/11287974191)
 
 ## 🚀 Recent Commits
 
-- **strangest_queuemaker - [adding CSS and HTML](https://github.com/codingwithstrangers/strangest_queuemaker/commit/b32b1570f52b3e159f0ed39e793945702617d0da)**
-  - Additions: 127 - Deletions: 1 - Total Changes: 128
+- **strangest_queuemaker - [testing front end last working but messed up version](https://github.com/codingwithstrangers/strangest_queuemaker/commit/9435ce9e6e30ae9deea6af94fa4c8e0e7801548d)**
+  - Additions: 387 - Deletions: 209 - Total Changes: 596
 
-- **strangest_queuemaker - [lets start building the frontend](https://github.com/codingwithstrangers/strangest_queuemaker/commit/953d769f74ede079c7b69c7ba3fa74d5fee738e9)**
-  - Additions: 50 - Deletions: 1 - Total Changes: 51
+- **strangest_queuemaker - [last time the time export worked](https://github.com/codingwithstrangers/strangest_queuemaker/commit/a29ab9152104c81cee0a3f5df1d7bdbedaa1d4ad)**
+  - Additions: 164 - Deletions: 240 - Total Changes: 404
 
-- **strangest_queuemaker - [updated the song tie feature](https://github.com/codingwithstrangers/strangest_queuemaker/commit/6c503e0f27a3874aa3f1e239d375214bf8e7057f)**
-  - Additions: 141 - Deletions: 49 - Total Changes: 190
+- **strangest_queuemaker - [testing the rest so I can move on removed pubsub client](https://github.com/codingwithstrangers/strangest_queuemaker/commit/582bea24e8a4902aa8ee7375810bf27722afcf86)**
+  - Additions: 304 - Deletions: 94 - Total Changes: 398
 
 
 ## 🔀 Recently Merged Pull Requests
@@ -39,8 +39,8 @@
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 6671
-### Total Libraries/Modules Imported: 52
+### Total Lines of Python Code: 6797
+### Total Libraries/Modules Imported: 55
 ### Total Python Files: 46
 ![](DataVisuals/data.gif)
 

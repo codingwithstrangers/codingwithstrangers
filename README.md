@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2024-10-11 via [GitHub Action 11287974191](https://github.com/sockheadrps/sockheadrps/actions/runs/11287974191)
+### Data last generated on: 2024-10-12 via [GitHub Action 11301814043](https://github.com/sockheadrps/sockheadrps/actions/runs/11301814043)
 
 ## 🚀 Recent Commits
 
-- **strangest_queuemaker - [testing front end last working but messed up version](https://github.com/codingwithstrangers/strangest_queuemaker/commit/9435ce9e6e30ae9deea6af94fa4c8e0e7801548d)**
-  - Additions: 387 - Deletions: 209 - Total Changes: 596
+- **strangest_queuemaker - [both list are done](https://github.com/codingwithstrangers/strangest_queuemaker/commit/b431bf5dd13c67529533f34523102524f5c7e3bd)**
+  - Additions: 1401 - Deletions: 1 - Total Changes: 1402
 
-- **strangest_queuemaker - [last time the time export worked](https://github.com/codingwithstrangers/strangest_queuemaker/commit/a29ab9152104c81cee0a3f5df1d7bdbedaa1d4ad)**
-  - Additions: 164 - Deletions: 240 - Total Changes: 404
+- **strangest_queuemaker - [working scroll feature](https://github.com/codingwithstrangers/strangest_queuemaker/commit/35d726a450928789f5f587705ceaacb851c0d5a3)**
+  - Additions: 65 - Deletions: 8 - Total Changes: 73
 
-- **strangest_queuemaker - [testing the rest so I can move on removed pubsub client](https://github.com/codingwithstrangers/strangest_queuemaker/commit/582bea24e8a4902aa8ee7375810bf27722afcf86)**
-  - Additions: 304 - Deletions: 94 - Total Changes: 398
+- **strangest_queuemaker - [ok now to make it scroll forever](https://github.com/codingwithstrangers/strangest_queuemaker/commit/eea12cc79f73c1287d6169edbabb3ea7942b5a30)**
+  - Additions: 189 - Deletions: 192 - Total Changes: 381
 
 
 ## 🔀 Recently Merged Pull Requests
@@ -39,7 +39,7 @@
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 6797
+### Total Lines of Python Code: 6801
 ### Total Libraries/Modules Imported: 55
 ### Total Python Files: 46
 ![](DataVisuals/data.gif)

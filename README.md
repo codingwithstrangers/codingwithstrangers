@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2024-10-18 via [GitHub Action 11411177660](https://github.com/sockheadrps/sockheadrps/actions/runs/11411177660)
+### Data last generated on: 2024-10-22 via [GitHub Action 11453434958](https://github.com/sockheadrps/sockheadrps/actions/runs/11453434958)
 
 ## 🚀 Recent Commits
+
+- **strangest_queuemaker - [Update README.md  making changes to this for use](https://github.com/codingwithstrangers/strangest_queuemaker/commit/2d42ed2e457fc12746665b25f5d0017f61e9b21d)**
+  - Additions: 156 - Deletions: 1 - Total Changes: 157
 
 - **strangest_queuemaker - [Best working version](https://github.com/codingwithstrangers/strangest_queuemaker/commit/be8b8ff1d14b2b5ce09bda8dbe729bc015db6549)**
   - Additions: 68 - Deletions: 8 - Total Changes: 76
 
 - **strangest_queuemaker - [Best version of the code working and tested will bug hunt](https://github.com/codingwithstrangers/strangest_queuemaker/commit/bb08711137c6df318a7184fc390ce34088b3c937)**
   - Additions: 80 - Deletions: 28 - Total Changes: 108
-
-- **strangest_queuemaker - [need to test but JD defensive code structure](https://github.com/codingwithstrangers/strangest_queuemaker/commit/cebc2c8103395abebdc1c3e2f7ad70699b3c24f0)**
-  - Additions: 80 - Deletions: 153 - Total Changes: 233
 
 
 ## 🔀 Recently Merged Pull Requests

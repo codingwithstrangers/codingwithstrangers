@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2024-10-22 via [GitHub Action 11453434958](https://github.com/sockheadrps/sockheadrps/actions/runs/11453434958)
+### Data last generated on: 2024-10-29 via [GitHub Action 11568435833](https://github.com/sockheadrps/sockheadrps/actions/runs/11568435833)
 
 ## 🚀 Recent Commits
 
-- **strangest_queuemaker - [Update README.md  making changes to this for use](https://github.com/codingwithstrangers/strangest_queuemaker/commit/2d42ed2e457fc12746665b25f5d0017f61e9b21d)**
-  - Additions: 156 - Deletions: 1 - Total Changes: 157
+- **strangest_battleship - [Adding sun and moon animation made waves in gif mode](https://github.com/codingwithstrangers/strangest_battleship/commit/977086e639f4a05176b124d9d8a28a639d12d8d6)**
+  - Additions: 683 - Deletions: 111 - Total Changes: 794
 
-- **strangest_queuemaker - [Best working version](https://github.com/codingwithstrangers/strangest_queuemaker/commit/be8b8ff1d14b2b5ce09bda8dbe729bc015db6549)**
-  - Additions: 68 - Deletions: 8 - Total Changes: 76
+- **strangest_battleship - [fixed shape will work on this more](https://github.com/codingwithstrangers/strangest_battleship/commit/6375764fd588d5ab570e781ee535b5e4d6d4b60a)**
+  - Additions: 373 - Deletions: 129 - Total Changes: 502
 
-- **strangest_queuemaker - [Best version of the code working and tested will bug hunt](https://github.com/codingwithstrangers/strangest_queuemaker/commit/bb08711137c6df318a7184fc390ce34088b3c937)**
-  - Additions: 80 - Deletions: 28 - Total Changes: 108
+- **strangest_battleship - [got board working with skew](https://github.com/codingwithstrangers/strangest_battleship/commit/ebe54bcac4f2ba3c3dd6a60f77430f2feef3d0ae)**
+  - Additions: 309 - Deletions: 0 - Total Changes: 309
 
 
 ## 🔀 Recently Merged Pull Requests

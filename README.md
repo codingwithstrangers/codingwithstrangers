@@ -13,24 +13,34 @@
 ---
 
 
-### Data last generated on: 2024-09-20 via [GitHub Action 10952700891](https://github.com/sockheadrps/sockheadrps/actions/runs/10952700891)
+### Data last generated on: 2024-10-29 via [GitHub Action 11568435833](https://github.com/sockheadrps/sockheadrps/actions/runs/11568435833)
 
 ## 🚀 Recent Commits
 
-- **strangest_BST - [Thanks Tani](https://github.com/codingwithstrangers/strangest_BST/commit/68cc465ca83723c263d6009772cbd7c2619ab437)**
-  - Additions: 3 - Deletions: 0 - Total Changes: 3
+- **strangest_battleship - [Adding sun and moon animation made waves in gif mode](https://github.com/codingwithstrangers/strangest_battleship/commit/977086e639f4a05176b124d9d8a28a639d12d8d6)**
+  - Additions: 683 - Deletions: 111 - Total Changes: 794
 
-- **strangest_BST - [Merge pull request #1 from taniwha3/main  adding tests](https://github.com/codingwithstrangers/strangest_BST/commit/bd79f5b842a8a12bbf571b5f23579d26647d6810)**
-  - Additions: 3701 - Deletions: 47 - Total Changes: 3748
+- **strangest_battleship - [fixed shape will work on this more](https://github.com/codingwithstrangers/strangest_battleship/commit/6375764fd588d5ab570e781ee535b5e4d6d4b60a)**
+  - Additions: 373 - Deletions: 129 - Total Changes: 502
 
-- **strangest_BST - [adding tests  Signed-off-by: Tani Aura <111664369+taniwha3@users.noreply.github.com>](https://github.com/codingwithstrangers/strangest_BST/commit/eed0339895646299a1a489a7105ed99814c8606a)**
-  - Additions: 3701 - Deletions: 47 - Total Changes: 3748
+- **strangest_battleship - [got board working with skew](https://github.com/codingwithstrangers/strangest_battleship/commit/ebe54bcac4f2ba3c3dd6a60f77430f2feef3d0ae)**
+  - Additions: 309 - Deletions: 0 - Total Changes: 309
 
+
+## 🔀 Recently Merged Pull Requests
+
+- **[This is the version we made that works](https://github.com/sockheadrps/PyProfileDataGen/pull/12)**
+  - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: 3
+
+- **[Making this for a PR](https://github.com/sockheadrps/PyProfileDataGen/pull/10)**
+  - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: 3
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 6088
-### Total Libraries/Modules Imported: 51
-### Total Python Files: 41
+### Total Lines of Python Code: 6865
+### Total Libraries/Modules Imported: 55
+### Total Python Files: 46
 ![](DataVisuals/data.gif)
 

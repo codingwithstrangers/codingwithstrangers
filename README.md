@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2024-11-19 via [GitHub Action 11920429169](https://github.com/sockheadrps/sockheadrps/actions/runs/11920429169)
+### Data last generated on: 2024-12-07 via [GitHub Action 12216562601](https://github.com/sockheadrps/sockheadrps/actions/runs/12216562601)
 
 ## 🚀 Recent Commits
 
-- **strangest_battleship - [I messed up everything in a matter of 3 mins](https://github.com/codingwithstrangers/strangest_battleship/commit/d52b1e44b8043881e7398b5e1f552c4587357259)**
-  - Additions: 376 - Deletions: 19 - Total Changes: 395
+- **strangest_battleship - [got the main board to work and the error catching to recognize the board](https://github.com/codingwithstrangers/strangest_battleship/commit/13a16dd929490c8f54b8ee4ec3a7cb20ca66e256)**
+  - Additions: 321 - Deletions: 341 - Total Changes: 662
 
-- **strangest_battleship - [This was the last time the npcboard worked... better work later](https://github.com/codingwithstrangers/strangest_battleship/commit/a838ded1f1c50878fa0af0b39bbfe09c1d9c7709)**
-  - Additions: 1039 - Deletions: 253 - Total Changes: 1292
+- **strangest_battleship - [this has the npc random ship gen. need to add  call out for starting new game and fix main board](https://github.com/codingwithstrangers/strangest_battleship/commit/ed1e9b6705bd2ba2c507b6fd146ff87d017218a2)**
+  - Additions: 193 - Deletions: 74 - Total Changes: 267
 
-- **strangest_battleship - [before making the board a class](https://github.com/codingwithstrangers/strangest_battleship/commit/58d80b9fad4c9a8bea3cf2a7075205f3639f42e4)**
-  - Additions: 123 - Deletions: 11 - Total Changes: 134
+- **strangest_battleship - [test work and game start works best vewrsion thus far](https://github.com/codingwithstrangers/strangest_battleship/commit/4b5d3b524a0f0e150cb90f8f88bea536092e5410)**
+  - Additions: 14 - Deletions: 13 - Total Changes: 27
 
 
 ## 🔀 Recently Merged Pull Requests

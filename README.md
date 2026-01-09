@@ -13,34 +13,41 @@
 ---
 
 
-### Data last generated on: 2025-01-26 via [GitHub Action 12972332776](https://github.com/sockheadrps/sockheadrps/actions/runs/12972332776)
+### Data last generated on: 2026-01-09 via [GitHub Action 20840869199](https://github.com/sockheadrps/sockheadrps/actions/runs/20840869199)
 
 ## 🚀 Recent Commits
 
-- **strangest_battleship - [got the main board to work and the error catching to recognize the board](https://github.com/codingwithstrangers/strangest_battleship/commit/13a16dd929490c8f54b8ee4ec3a7cb20ca66e256)**
-  - Additions: 321 - Deletions: 341 - Total Changes: 662
+- **Youtube_MetaData - [whoopsie](https://github.com/codingwithstrangers/Youtube_MetaData/commit/d2c696b71ed7299896c42beb2e7b7702e67f5b9b)**
+  - Additions: 3 - Deletions: 0 - Total Changes: 3
 
-- **strangest_battleship - [this has the npc random ship gen. need to add  call out for starting new game and fix main board](https://github.com/codingwithstrangers/strangest_battleship/commit/ed1e9b6705bd2ba2c507b6fd146ff87d017218a2)**
-  - Additions: 193 - Deletions: 74 - Total Changes: 267
+- **Youtube_MetaData - [finished](https://github.com/codingwithstrangers/Youtube_MetaData/commit/34544f1dbc932525f7b472d4a695bca32d0fa77c)**
+  - Additions: 4138 - Deletions: 0 - Total Changes: 4138
 
-- **strangest_battleship - [test work and game start works best vewrsion thus far](https://github.com/codingwithstrangers/strangest_battleship/commit/4b5d3b524a0f0e150cb90f8f88bea536092e5410)**
-  - Additions: 14 - Deletions: 13 - Total Changes: 27
+- **The-Perfect-Lurker-V3 - [kick and leave work, next work on Ranking system](https://github.com/codingwithstrangers/The-Perfect-Lurker-V3/commit/8e041b9112022ef92f3d43b53e0aca60c26e0544)**
+  - Additions: 18 - Deletions: 17 - Total Changes: 35
 
 
-## 🔀 Recently Merged Pull Requests
+## 🔀 Popular Pull Requests
 
 - **[This is the version we made that works](https://github.com/sockheadrps/PyProfileDataGen/pull/12)**
-  - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
-  - Stars: 9
+  - Repository: [sockheadrps/PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: **11** | Merged: September 2024
+
+
+## 🔀 Recent Pull Requests
+
+- **[This is the version we made that works](https://github.com/sockheadrps/PyProfileDataGen/pull/12)**
+  - Repository: [sockheadrps/PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: **11** | Merged: September 2024
 
 - **[Making this for a PR](https://github.com/sockheadrps/PyProfileDataGen/pull/10)**
-  - Repository: [PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
-  - Stars: 9
+  - Repository: [sockheadrps/PyProfileDataGen](https://github.com/sockheadrps/PyProfileDataGen)
+  - Stars: **11** | Merged: September 2024
 
 # 📊 Python Stats:
 
-### Total Lines of Python Code: 6865
-### Total Libraries/Modules Imported: 55
-### Total Python Files: 46
+### Total Lines of Python Code: 7093
+### Total Libraries/Modules Imported: 57
+### Total Python Files: 47
 ![](DataVisuals/data.gif)
 

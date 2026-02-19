@@ -8,15 +8,15 @@
                 "youtube.py"
             ],
             "libraries": [
-                "time",
-                "os",
                 "selenium",
-                "pafy",
-                "select",
-                "get_yt_url",
-                "chromedriver_autoinstaller",
+                "os",
                 "glob",
-                "json"
+                "select",
+                "chromedriver_autoinstaller",
+                "pafy",
+                "get_yt_url",
+                "json",
+                "time"
             ],
             "total_python_files": 3,
             "total_python_lines": 163,
@@ -1636,19 +1636,19 @@
                 "tracks_rec.py"
             ],
             "libraries": [
-                "csv",
+                "rec",
+                "os",
                 "requests",
                 "main",
-                "rec",
-                "json",
-                "unicodedata",
-                "operator",
-                "os",
-                "export",
-                "pprint",
                 "test_rec",
-                "dotenv",
-                "xlsxwriter"
+                "xlsxwriter",
+                "export",
+                "json",
+                "operator",
+                "pprint",
+                "csv",
+                "unicodedata",
+                "dotenv"
             ],
             "total_python_files": 9,
             "total_python_lines": 973,
@@ -1876,9 +1876,9 @@
                 "main.py"
             ],
             "libraries": [
-                "plotly_express",
                 "pathlib",
                 "pandas",
+                "plotly_express",
                 "streamlit",
                 "sys"
             ],
@@ -1921,14 +1921,14 @@
                 "test.py"
             ],
             "libraries": [
+                "os",
+                "cv2",
+                "OpenSSL",
+                "atexit",
+                "base64",
                 "flask",
                 "numpy",
-                "atexit",
-                "time",
-                "os",
-                "OpenSSL",
-                "cv2",
-                "base64"
+                "time"
             ],
             "total_python_files": 6,
             "total_python_lines": 310,
@@ -2466,19 +2466,19 @@
             ],
             "libraries": [
                 "spotipy",
-                "time",
-                "cws_songs",
+                "os",
                 "requests",
                 "refresh_token",
-                "configuration",
-                "json",
-                "asyncio",
-                "datetime",
-                "os",
-                "dotenv",
-                "threading",
                 "re",
-                "twitchio"
+                "datetime",
+                "asyncio",
+                "threading",
+                "json",
+                "dotenv",
+                "cws_songs",
+                "twitchio",
+                "configuration",
+                "time"
             ],
             "total_python_files": 5,
             "total_python_lines": 777,
@@ -2842,39 +2842,39 @@
                 "yellow_item.py"
             ],
             "libraries": [
-                "lurker_item",
-                "zipfile",
-                "time",
-                "selenium",
-                "websockets",
-                "csv",
-                "requests",
-                "xml",
-                "subprocess",
                 "main",
-                "json",
-                "asyncio",
-                "datetime",
-                "pprint",
-                "io",
-                "logging",
                 "psutil",
-                "re",
+                "logging",
+                "websockets",
                 "chromedriver_autoinstaller",
-                "twitchio",
-                "pandas",
-                "refresh",
-                "random",
+                "asyncio",
                 "schedule",
-                "configuration",
-                "sys",
-                "inspect",
-                "os",
-                "typing",
-                "dotenv",
-                "urllib",
+                "random",
                 "functools",
-                "shutil"
+                "urllib",
+                "shutil",
+                "inspect",
+                "io",
+                "subprocess",
+                "sys",
+                "dotenv",
+                "selenium",
+                "os",
+                "requests",
+                "re",
+                "datetime",
+                "refresh",
+                "typing",
+                "lurker_item",
+                "json",
+                "pprint",
+                "pandas",
+                "zipfile",
+                "twitchio",
+                "csv",
+                "xml",
+                "configuration",
+                "time"
             ],
             "total_python_files": 18,
             "total_python_lines": 4090,
@@ -3050,25 +3050,71 @@
             "total_python_lines": 0,
             "file_extensions": {
                 ".json": 1,
-                ".png": 38,
+                ".png": 40,
                 ".md": 2,
                 ".gitignore": 3,
                 ".editorconfig": 1,
                 ".gitattributes": 2,
                 "the_perfect_lurker_v3/lurker_v3/lurker_3/LICENSE": 1,
-                ".gd": 28,
-                ".uid": 28,
-                ".import": 39,
-                ".cfg": 2,
+                ".gd": 29,
+                ".uid": 29,
+                ".import": 47,
+                ".cfg": 3,
                 ".tscn": 8,
                 ".tres": 1,
                 ".svg": 1,
                 ".godot": 2,
+                ".exe": 3,
+                ".pck": 3,
+                ".TMP": 2,
+                ".csv": 6,
+                ".translation": 34,
+                ".txt": 3,
                 ".jpg": 1
             },
-            "total_commits": 15,
+            "total_commits": 25,
             "commit_messages": [],
             "commit_times": [
+                [
+                    3,
+                    1
+                ],
+                [
+                    2,
+                    17
+                ],
+                [
+                    2,
+                    11
+                ],
+                [
+                    5,
+                    15
+                ],
+                [
+                    3,
+                    11
+                ],
+                [
+                    2,
+                    0
+                ],
+                [
+                    0,
+                    12
+                ],
+                [
+                    4,
+                    21
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    6,
+                    4
+                ],
                 [
                     3,
                     1
@@ -3146,14 +3192,14 @@
                 "main.py"
             ],
             "libraries": [
-                "asyncio",
-                "datetime",
                 "os",
                 "logging",
-                "dotenv",
-                "configuration",
+                "datetime",
+                "asyncio",
                 "twitchio",
-                "json"
+                "json",
+                "configuration",
+                "dotenv"
             ],
             "total_python_files": 2,
             "total_python_lines": 68,
@@ -3194,26 +3240,30 @@
                 "twitchauth.py"
             ],
             "libraries": [
-                "operator",
+                "client",
                 "pandas",
-                "datetime",
-                "time",
                 "os",
+                "requests",
+                "datetime",
                 "csv",
                 "random",
-                "requests",
-                "client"
+                "operator",
+                "time"
             ],
             "total_python_files": 2,
-            "total_python_lines": 374,
+            "total_python_lines": 387,
             "file_extensions": {
                 ".gitignore": 1,
                 ".py": 2,
                 ".md": 1
             },
-            "total_commits": 4,
+            "total_commits": 5,
             "commit_messages": [],
             "commit_times": [
+                [
+                    2,
+                    23
+                ],
                 [
                     5,
                     15
@@ -3232,7 +3282,7 @@
                 ]
             ],
             "construct_counts": {
-                "if statements": 22,
+                "if statements": 23,
                 "while loops": 0,
                 "for loops": 15,
                 "regular functions created": 2,
@@ -3246,27 +3296,30 @@
                 "main.py"
             ],
             "libraries": [
-                "csv",
                 "time",
-                "dotenv",
                 "os",
-                "subprocess",
                 "datetime",
-                "sys"
+                "csv",
+                "subprocess",
+                "sys",
+                "dotenv"
             ],
             "total_python_files": 1,
-            "total_python_lines": 228,
+            "total_python_lines": 262,
             "file_extensions": {
                 ".gitignore": 1,
                 ".md": 1,
-                ".csv": 3,
                 ".py": 1,
-                ".txt": 1,
+                ".csv": 1,
                 ".html": 1
             },
-            "total_commits": 3,
+            "total_commits": 4,
             "commit_messages": [],
             "commit_times": [
+                [
+                    1,
+                    2
+                ],
                 [
                     3,
                     1
@@ -3281,10 +3334,65 @@
                 ]
             ],
             "construct_counts": {
-                "if statements": 9,
+                "if statements": 12,
                 "while loops": 2,
-                "for loops": 14,
+                "for loops": 16,
                 "regular functions created": 7,
+                "async functions created": 0,
+                "classes created": 0
+            }
+        },
+        {
+            "repo_name": "strangest_media",
+            "python_files": [
+                "config/capabilities.py",
+                "config/enums.py",
+                "config/settings.py",
+                "core/csv_loader.py",
+                "core/dispatcher.py",
+                "core/logger.py",
+                "core/models.py",
+                "core/state_manager.py",
+                "platforms/base.py",
+                "platforms/bluesky.py",
+                "platforms/discord.py",
+                "platforms/instagram.py",
+                "platforms/linkedin.py",
+                "platforms/reddit.py",
+                "platforms/tiktok.py",
+                "platforms/twitter.py",
+                "platforms/youtube.py",
+                "scheduler/run_uploads.py"
+            ],
+            "libraries": [],
+            "total_python_files": 18,
+            "total_python_lines": 273,
+            "file_extensions": {
+                ".env": 1,
+                ".example": 1,
+                ".gitignore": 1,
+                ".md": 1,
+                ".py": 18,
+                ".txt": 2,
+                ".csv": 1
+            },
+            "total_commits": 2,
+            "commit_messages": [],
+            "commit_times": [
+                [
+                    3,
+                    1
+                ],
+                [
+                    0,
+                    22
+                ]
+            ],
+            "construct_counts": {
+                "if statements": 4,
+                "while loops": 0,
+                "for loops": 15,
+                "regular functions created": 0,
                 "async functions created": 0,
                 "classes created": 0
             }
@@ -3310,7 +3418,7 @@
             "17": 4,
             "18": 1,
             "19": 1,
-            "21": 5,
+            "21": 6,
             "22": 3,
             "23": 1
         },
@@ -3327,7 +3435,7 @@
             "9": 2,
             "10": 4,
             "11": 7,
-            "12": 8,
+            "12": 9,
             "13": 15,
             "14": 3,
             "15": 11,
@@ -3337,7 +3445,7 @@
             "19": 3,
             "20": 6,
             "21": 3,
-            "22": 8,
+            "22": 9,
             "23": 9
         },
         "Saturday": {
@@ -3355,7 +3463,7 @@
             "12": 2,
             "13": 8,
             "14": 4,
-            "15": 2,
+            "15": 3,
             "16": 2,
             "18": 4,
             "19": 2,
@@ -3367,7 +3475,7 @@
             "1": 5,
             "2": 2,
             "3": 3,
-            "4": 3,
+            "4": 4,
             "5": 2,
             "6": 2,
             "7": 1,
@@ -3388,7 +3496,7 @@
         },
         "Thursday": {
             "0": 10,
-            "1": 10,
+            "1": 12,
             "2": 6,
             "3": 3,
             "5": 1,
@@ -3396,7 +3504,7 @@
             "8": 2,
             "9": 2,
             "10": 4,
-            "11": 3,
+            "11": 4,
             "12": 7,
             "13": 7,
             "14": 1,
@@ -3411,7 +3519,7 @@
         "Tuesday": {
             "0": 11,
             "1": 7,
-            "2": 5,
+            "2": 6,
             "3": 1,
             "4": 1,
             "7": 4,
@@ -3432,8 +3540,8 @@
             "23": 10
         },
         "Wednesday": {
-            "0": 10,
-            "1": 6,
+            "0": 11,
+            "1": 7,
             "2": 2,
             "3": 3,
             "5": 2,
@@ -3441,19 +3549,19 @@
             "8": 6,
             "9": 2,
             "10": 6,
-            "11": 4,
+            "11": 5,
             "12": 2,
             "13": 6,
             "14": 8,
             "15": 5,
             "16": 7,
-            "17": 10,
+            "17": 11,
             "18": 3,
             "19": 3,
             "20": 2,
             "21": 1,
             "22": 1,
-            "23": 10
+            "23": 11
         }
     },
     "construct_counts": [],
@@ -3534,6 +3642,215 @@
             "additions": 335,
             "deletions": 53,
             "total_changes": 388
+        },
+        {
+            "repo_name": "Youtube_MetaData",
+            "repo_url": "https://github.com/codingwithstrangers/Youtube_MetaData",
+            "sha": "d2c696b71ed7299896c42beb2e7b7702e67f5b9b",
+            "message": "whoopsie",
+            "author": "CWS",
+            "date": "2026-01-08T01:50:36-05:00",
+            "additions": 3,
+            "deletions": 0,
+            "total_changes": 3
+        },
+        {
+            "repo_name": "Youtube_MetaData",
+            "repo_url": "https://github.com/codingwithstrangers/Youtube_MetaData",
+            "sha": "34544f1dbc932525f7b472d4a695bca32d0fa77c",
+            "message": "finished",
+            "author": "CWS",
+            "date": "2026-01-08T01:42:00-05:00",
+            "additions": 4138,
+            "deletions": 0,
+            "total_changes": 4138
+        },
+        {
+            "repo_name": "Youtube_MetaData",
+            "repo_url": "https://github.com/codingwithstrangers/Youtube_MetaData",
+            "sha": "7535be8ca6473b450ea6447db14b468fd35e292c",
+            "message": "first commit",
+            "author": "CWS",
+            "date": "2025-12-30T18:44:22-05:00",
+            "additions": 1,
+            "deletions": 0,
+            "total_changes": 1
+        },
+        {
+            "repo_name": "strangest_media",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_media",
+            "sha": "9f32b03f4e404790bb0a5a4e7a9629faf728dd0e",
+            "message": "files make capablities.py done",
+            "author": "CWS",
+            "date": "2026-01-15T01:14:39-05:00",
+            "additions": 617,
+            "deletions": 0,
+            "total_changes": 617
+        },
+        {
+            "repo_name": "strangest_media",
+            "repo_url": "https://github.com/codingwithstrangers/strangest_media",
+            "sha": "6313947e285806b1c3824bf1a9258f48644c5310",
+            "message": "first commit",
+            "author": "CWS",
+            "date": "2026-01-12T22:05:51-05:00",
+            "additions": 1,
+            "deletions": 0,
+            "total_changes": 1
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "b3e1f0b3ccb141b05d3d6b3793359e1c773a8528",
+            "message": "fix result bug",
+            "author": "CWS",
+            "date": "2026-02-19T01:57:28-05:00",
+            "additions": 306,
+            "deletions": 9,
+            "total_changes": 315
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "0935697bcc38701bf761dcc0e6f362b8a64fd110",
+            "message": "testing the long term refresh rate and fixed icon issue for host",
+            "author": "CWS",
+            "date": "2026-02-18T17:45:39-05:00",
+            "additions": 5523,
+            "deletions": 47,
+            "total_changes": 5570
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "487d26e0ad427fde53b7889fdca3f264b7aea741",
+            "message": "trying to fix 3 hour crash cycle ping fails",
+            "author": "CWS",
+            "date": "2026-02-18T11:29:15-05:00",
+            "additions": 295,
+            "deletions": 54,
+            "total_changes": 349
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "0ced9015a77da326d9d0b3abdd07cd9a315ad3ad",
+            "message": "Dont fixed irc chat added in to help with pit issue also fixed hit box issue will work on animation next",
+            "author": "CWS",
+            "date": "2026-02-14T15:56:01-05:00",
+            "additions": 353,
+            "deletions": 31,
+            "total_changes": 384
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "9973160b23f1ac6ea4c56155ae6874dd43bbea8e",
+            "message": "adding new icon folder",
+            "author": "CWS",
+            "date": "2026-02-12T11:31:04-05:00",
+            "additions": 39,
+            "deletions": 7,
+            "total_changes": 46
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "ec0d1372b9272a221459d0569ecb562f1a86ea40",
+            "message": "track 6 MVP",
+            "author": "CWS",
+            "date": "2026-02-11T00:24:56-05:00",
+            "additions": 200,
+            "deletions": 37,
+            "total_changes": 237
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "a316c53e87e06ae4770616c2a780a638273e74af",
+            "message": "track 3 mvp chat slow doesnt work, shield not working and map not recentered",
+            "author": "CWS",
+            "date": "2026-02-09T12:53:58-05:00",
+            "additions": 201,
+            "deletions": 35,
+            "total_changes": 236
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "75d9d0bd778a6ebde11b1640e636e06bd60d333b",
+            "message": "fixing root issue",
+            "author": "CWS",
+            "date": "2026-02-06T21:03:05-05:00",
+            "additions": 20,
+            "deletions": 29,
+            "total_changes": 49
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "059a0620b1da78dc668b2d0a0dc52d1db7714891",
+            "message": "I can now export mvp, need to fix self trap items not hitting lurker whor dropped it and need to fix timer for pit.",
+            "author": "CWS",
+            "date": "2026-02-04T01:06:37-05:00",
+            "additions": 847,
+            "deletions": 75,
+            "total_changes": 922
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "a7fb042323f1550c2bb84b50f4188ca6d2d64a86",
+            "message": "Added crowns and lap feature",
+            "author": "CWS",
+            "date": "2026-02-01T04:07:20-05:00",
+            "additions": 203,
+            "deletions": 10,
+            "total_changes": 213
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "8e041b9112022ef92f3d43b53e0aca60c26e0544",
+            "message": "kick and leave work, next work on Ranking system",
+            "author": "CWS",
+            "date": "2026-01-08T01:37:29-05:00",
+            "additions": 18,
+            "deletions": 17,
+            "total_changes": 35
+        },
+        {
+            "repo_name": "The-Perfect-Lurker-V3",
+            "repo_url": "https://github.com/codingwithstrangers/The-Perfect-Lurker-V3",
+            "sha": "1a137437545a6b7076a88e2e7b00ee43d240d58c",
+            "message": "working version before kick feature",
+            "author": "CWS",
+            "date": "2026-01-07T23:21:27-05:00",
+            "additions": 335,
+            "deletions": 53,
+            "total_changes": 388
+        },
+        {
+            "repo_name": "the_perfect_stranger",
+            "repo_url": "https://github.com/codingwithstrangers/the_perfect_stranger",
+            "sha": "ef2c3ed85bd4cd46d3c33afc26d0aa32215be133",
+            "message": "fixed time issue after 10 hours close app if txt repeats",
+            "author": "CWS",
+            "date": "2026-02-18T23:44:05-05:00",
+            "additions": 15,
+            "deletions": 2,
+            "total_changes": 17
+        },
+        {
+            "repo_name": "Youtube_MetaData",
+            "repo_url": "https://github.com/codingwithstrangers/Youtube_MetaData",
+            "sha": "8aaa632abe332e98d2f8b258e18c180bda96b861",
+            "message": "fix excessive api call out",
+            "author": "CWS",
+            "date": "2026-02-17T02:34:34-05:00",
+            "additions": 58,
+            "deletions": 2547,
+            "total_changes": 2605
         },
         {
             "repo_name": "Youtube_MetaData",

@@ -13,18 +13,18 @@
 ---
 
 
-### Data last generated on: 2026-02-19 via [GitHub Action 22171844597](https://github.com/sockheadrps/sockheadrps/actions/runs/22171844597)
+### Data last generated on: 2026-03-11 via [GitHub Action 22932008818](https://github.com/sockheadrps/sockheadrps/actions/runs/22932008818)
 
 ## 🚀 Recent Commits
 
-- **The-Perfect-Lurker-V3 - [fix result bug](https://github.com/codingwithstrangers/The-Perfect-Lurker-V3/commit/b3e1f0b3ccb141b05d3d6b3793359e1c773a8528)**
-  - Additions: 306 - Deletions: 9 - Total Changes: 315
+- **The-Perfect-Lurker-V3 - [version 2 map update and map 3 needs revamp](https://github.com/codingwithstrangers/The-Perfect-Lurker-V3/commit/2b79c781697cf494c9d6f000650dfdae04006b35)**
+  - Additions: 272 - Deletions: 164 - Total Changes: 436
 
-- **the_perfect_stranger - [fixed time issue after 10 hours close app if txt repeats](https://github.com/codingwithstrangers/the_perfect_stranger/commit/ef2c3ed85bd4cd46d3c33afc26d0aa32215be133)**
-  - Additions: 15 - Deletions: 2 - Total Changes: 17
+- **The-Perfect-Lurker-V3 - [still fixing issue with logger](https://github.com/codingwithstrangers/The-Perfect-Lurker-V3/commit/1bdaf2f9139816aec021262fd330482a574ab703)**
+  - Additions: 60 - Deletions: 46 - Total Changes: 106
 
-- **The-Perfect-Lurker-V3 - [testing the long term refresh rate and fixed icon issue for host](https://github.com/codingwithstrangers/The-Perfect-Lurker-V3/commit/0935697bcc38701bf761dcc0e6f362b8a64fd110)**
-  - Additions: 5523 - Deletions: 47 - Total Changes: 5570
+- **The-Perfect-Lurker-V3 - [fixed csv shield calculation issue](https://github.com/codingwithstrangers/The-Perfect-Lurker-V3/commit/f1f10318c0a199db2d4e6250d21832dd7fbbdee2)**
+  - Additions: 63 - Deletions: 46 - Total Changes: 109
 
 
 ## 🔀 Popular Pull Requests
